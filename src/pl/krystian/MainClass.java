@@ -3,10 +3,10 @@ package pl.krystian;
 public class MainClass {
 
 	public static void main(String[] args) {
-		int a = 74;
-		int b = 36;
+		int a = 50;
+		int b = 3;
 		
-		System.out.println(a+b);
+		System.out.println(a/b);
 	}
 
 }
