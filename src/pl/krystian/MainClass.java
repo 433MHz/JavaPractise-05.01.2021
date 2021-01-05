@@ -3,8 +3,10 @@ package pl.krystian;
 public class MainClass {
 
 	public static void main(String[] args) {
-		System.out.println("Hello");
-		System.out.println("Krystian Izdebski");
+		int a = 74;
+		int b = 36;
+		
+		System.out.println(a+b);
 	}
 
 }
